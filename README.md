@@ -1,6 +1,6 @@
 # Reading list
 
-[![reading_list.webm](reading_list.webm)](reading_list.webm)
+[reading_list.webm](https://user-images.githubusercontent.com/17600982/234714380-9842ca92-6fef-47bf-8510-b2dfc83e7f42.webm)
 
 ## 📚 Adding a Reading List Page to My Own Website
 
