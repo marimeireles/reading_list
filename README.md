@@ -1,6 +1,6 @@
 # Reading list
 
-[![Alt Text](reading_list.mov)](reading_list.mov)
+[!(reading_list.webm)](reading_list.webm)
 
 ## 📚 Adding a Reading List Page to My Own Website
 
