@@ -15,4 +15,6 @@ If you run into any issues, don't hesitate to open an issue here! 😊
 
 ## 📖 How Should My CSV Look?
 
-Check out the [test.csv](test.csv) file in this repository. Everything should be separated by commas, but make sure to separate your type labels with `;` instead of commas. Happy reading! 🤓
+Check out the [test.csv](test.csv) file in this repository.
+Every column should be separated by commas, like a default CSV. However! make sure to separate the type labels with `;` and not commas. Also make sure to trim any single comma from the title of books, or notes, or authors, if you leave commas behind it will break the parsing of the table and ugly things will happen.
+Happy reading! 🤓
